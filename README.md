@@ -141,5 +141,35 @@ La tendencia hacia un punto de vista cada vez más lógico del lenguaje es algo 
 Johann Gottfried Von Herber sostuvo que cualquier razonamiento y abstracción más elevado exigen el simbolismo, las facultades de denotación y connotación que el lenguaje proporciona además que el lenguaje humano es artificial y le permite razonar.
 La filosofía del siglo XX adoptó la postura radical de que el lenguaje puede y debe ser un cálculo totalmente lógico.
 Los positivistas lógicos creyeron que el análisis del lenguaje era la única tarea legítima de los filósofos; por lo que la metafísica y la filosofía fueron desatinos literales.
+</p>
+<h3><strong>Estructuras Silientes</strong></h3>
+<p align="justify">
+Con el advenimiento de la computación la lógica sigue triunfando sobre la poesía, todo el curso de la filosofía lingüística desde Leibniz a los positivistas parece culminar en la computadora donde los símbolos se les quitan connotaciones y se les da significado sólo por medio de una definición inicial y de relaciones sintácticas con otros símbolos.
+La computadora altera su forma y su propósito lógico conforme escapa a la producción mecánica de las palabras a diferencia de la prensa la cual es un mecanismo rígido que sólo puede repetir el mismo producto: páginas cuyas líneas tienen un orden que ha sido fijado de una vez por todas y para siempre por el impresor.
+</p>
+<p align="justify">
+En cambio la computadora que altera su forma y su propósito lógico conforme escapa a la producción mecánica de palabras. Ya no se necesita inteligencia humana para manipular símbolos verbales; tal cosa hace la computadora con un programa sin que un humano intervenga.
+Por su propia naturaleza la memoria humana establece asociaciones de palabras que desafían la lógica y da a las palabras connotaciones que van más allá de su definición, traza analogías entre el mundo exterior y las palabras que lo representan.
 
+</p>
+<p align="justify">
+El lenguaje de la computadora, es como los lógicos habían esperado el triunfo de la estructura sobre el contenido, es una reinterpretación del contenido (de lo que los lingüistas llaman semántica) en términos de estructura.
+En cierto sentido, cada nuevo problema programado en la máquina es una nueva conquista desde el punto de vista lógico del lenguaje.
+El trabajo empezó con los lingüistas estructurales de los años 1940 y 1950 que analizaron jerárquicamente el idioma inglés (de palabras-a-frases-a-cláusulas) y mediante procedimientos mecánicos esperaron eliminar por completo el problema del significado, este nuevo enfoque consiste en considerar al lenguaje como una estructura algebraica más que como un lexicón de palabras individuales.
+Es interesante observar cuán estrechamente estas manipulaciones algebraicas del lenguaje natural concuerdan con las manipulaciones de la computadora en sus códigos.
+
+</p>
+<p align="justify">
+Las computadoras transforman los enunciados de input en output, del mismo modo que la gramática de los lingüistas transforman la voz activa en pasiva.
+En la computadora se usan estructuras silentes y espaciales para cartografiar el significado del lenguaje y, en estos casos, el significado de una frase es su estructura, que nuestra mente como una computadora, puede representar, destilar y transformar, por que la mente en si no es otra cosa que la capacidad de formar estructuras.
+Algunos prefieren definir “Redes semánticas”, en las cuales los nodos representan conceptos, acontecimientos, personas u objetos y los vínculos representan asociaciones entre estos conceptos. 
+
+</p>
+<p align="justify">
+<strong>
+“Esta definición convierte también la experiencia humana del significado en una estructura espacial, que puede ser representada gráficamente en el papel o almacenada en la memoria de una computadora.”
+</strong>
+</p>
+<p align="justify">
+Una noción menos tangible de significado carece por sí misma de significado para la computadora.
 </p>
