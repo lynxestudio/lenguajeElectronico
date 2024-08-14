@@ -25,10 +25,10 @@ El lenguaje electrónico como lo describe Butler es una metáfora ya que es una 
 </p>
 <div><b>Fig 2. Diferencias entre lenguaje natural y lenguaje electrónico.</b></div>
 <table align="center">
-<th>
-<td><strong>Natural</strong></td>
-<td><strong>Electronico</strong></td>
-</th>
+<tr>
+<th><strong>Natural</strong></th>
+<th><strong>Electronico</strong></th>
+</tr>
 <tr>
 <td>Es oral y escrito</td>
 <td>Únicamente escrito</td>
